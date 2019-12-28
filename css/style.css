@@ -1,0 +1,95 @@
+	*{
+		padding: 0px;
+		margin: 0px;
+
+	}
+	body{
+	    background:url(../img/bc.jpg);
+	    background-repeat: no-repeat;
+	    background-size: cover;
+	}
+
+
+	.container{
+		width: 1140px;
+		margin:0 auto;
+
+	}
+
+	.login-section{
+		background-color: #003f80;
+	}
+
+
+	.login-section img{
+
+	margin: 0 auto;
+
+	display: block;
+	}
+
+
+	.login-section h2{
+
+	text-align: center;
+
+	font-size: 46px;
+
+	color: #fff;
+
+	text-transform: uppercase;
+
+	margin: 10px 10px;
+	}
+
+
+	.login-section{
+
+	width: 650px;
+
+	padding: 50px;
+
+	margin: 10%;
+	}
+
+	.form-control{
+
+	width: 600px;
+
+	height: 30px;
+
+	padding: 1px;
+
+	margin: 4px;
+	}
+
+	.btn{
+		
+	margin: 10px auto;
+		
+	display: block;
+		
+	padding: 13px 45px;
+		
+	font-size: 27px;
+		
+	text-transform: uppercase;
+		
+	background-color: blue;
+		
+	border: none;
+	transition: 0.4s ease-in-out
+
+	}
+
+	.btn:hover {
+
+	box-shadow: 3px 3px 3px red;
+
+	cursor: pointer;
+	}
+
+	
+
+
+
